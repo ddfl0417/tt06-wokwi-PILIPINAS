@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Based from https://tinytapeout.com/runs/tt03/159
+7-segment displays the text PILIPINAS
 
 ## How to test
 
-Explain how to use your project
+Based from https://tinytapeout.com/runs/tt03/159
+All toggle switches in zero position and clock switch on for auto runner. Individual BCD bits can be toggled using corresponding inputs with clock switch off.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-segment display
