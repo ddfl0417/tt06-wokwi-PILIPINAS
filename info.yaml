@@ -14,9 +14,9 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "Clock"
-  ui[1]: "reset"
-  ui[2]: "none"
+  ui[0]: ""
+  ui[1]: ""
+  ui[2]: ""
   ui[3]: "dp toggle"
   ui[4]: "BCD bit 3"
   ui[5]: "BCD bit 2"
